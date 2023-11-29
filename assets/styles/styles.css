@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: slategray;
+}
+
+h2 {
+    color: grey;
+}
+
+.info {
+    margin-bottom: 10px;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+.section h2 {
+    border-bottom: 2px solid gray;
+    padding-bottom: 5px;
+}
+
+.experience, .education {
+    margin-bottom: 20px;
+}
+
+.date {
+    font-weight: bold;
+}
+
+.skills ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer {
+    margin-top: 20px;
+    text-align: center;
+    color: silver;
+}
